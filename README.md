@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marawan Aly</h1>
 <h3 align="center">I'm a passionate software developer focusing on Mobile development and mainly Flutter. </h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working as **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [my-website-f1000.web.app](my-website-f1000.web.app)
 
-- 💬 Ask me about **Flutter and Swift**
+- 💬 Ask me about **Flutter / C# **
 
 - 📫 How to reach me **marawanmoubark@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Q9rszmxnaciC7Mzh7ZVrClnN_VKGtax/view?usp=sharing](https://drive.google.com/file/d/19Q9rszmxnaciC7Mzh7ZVrClnN_VKGtax/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pGw0Fenn0X8mYSJtUtFoEHXxz9pWBRX1/view?usp=share_link](https://drive.google.com/file/d/1pGw0Fenn0X8mYSJtUtFoEHXxz9pWBRX1/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
