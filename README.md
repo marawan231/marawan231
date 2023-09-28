@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [my-website-f1000.web.app](my-website-f1000.web.app)
 
-- 💬 Ask me about **Flutter / C# **
+- 💬 Ask me about **Flutter / Swift / C# / **
 
 - 📫 How to reach me **marawanmoubark@gmail.com**
 
